@@ -126,3 +126,7 @@ Math.max(2,4,6,1,7)
 You have to generate one random number
 You will ask user to provide another random number
 If random and user input match  console user win else loose
+
+localStorage
+
+you have 5 chance to user if 3 times user win than win else loose
